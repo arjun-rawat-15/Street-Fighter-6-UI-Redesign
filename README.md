@@ -35,7 +35,6 @@ The included dataset contains in-depth combat statistics and lore for **20 Chara
 ## 🤝 Let's Connect
 Feel free to fork this project, suggest UI improvements, or use the dataset for your own web development or data visualization projects!
 
-📩 Message me on:
-
-LinkedIn: https://www.linkedin.com/in/arjun-rawat-b66805430
-Instagram: https://www.instagram.com/arjunrawat.15
+📩 **Message me on:**
+* **LinkedIn:** https://www.linkedin.com/in/arjun-rawat-b66805430
+* **Instagram:** https://www.instagram.com/arjunrawat.15
