@@ -1,6 +1,6 @@
 # 🎮 Street Fighter 6 - Custom Character Select UI
 
-![UI Showcase - Jamie & Dee Jay](https://via.placeholder.com/1200x400.png?text=Street+Fighter+6+UI+Redesign)
+![UI Showcase - Jamie & Dee Jay](Streefighter.png)
 
 ## 📌 Project Overview
 This repository showcases a **Custom UI/UX Redesign** for the **Street Fighter 6** character selection and stats screen. The design focuses on a clean, modern, and highly visual aesthetic, featuring a dynamic grid layout, character bios, and key combat statistics. 
